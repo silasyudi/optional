@@ -1,6 +1,6 @@
 <?php
 
-namespace SymfonyBoot;
+namespace SymfonyBoot\Optional;
 
 use Throwable;
 

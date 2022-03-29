@@ -1,13 +1,13 @@
 <?php
 
-namespace Tests;
+namespace SymfonyBoot\Optional\Tests;
 
 use Exception;
 use PHPUnit\Framework\MockObject\MockObject;
 use PHPUnit\Framework\TestCase;
 use stdClass;
-use SymfonyBoot\Optional;
-use SymfonyBoot\OptionalInvalidStateException;
+use SymfonyBoot\Optional\Optional;
+use SymfonyBoot\Optional\OptionalInvalidStateException;
 use Throwable;
 use TypeError;
 

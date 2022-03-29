@@ -21,12 +21,12 @@
     },
     "autoload": {
         "psr-4": {
-            "SymfonyBoot\\": "src/"
+            "SymfonyBoot\\Optional\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Tests\\": "tests/"
+            "SymfonyBoot\\Optional\\Tests\\": "tests/"
         }
     }
 }
