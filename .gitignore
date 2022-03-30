@@ -3,3 +3,4 @@ vendor
 .idea
 .phpunit
 .phpunit.result.cache
+clover.xml
