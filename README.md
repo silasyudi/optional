@@ -1,6 +1,8 @@
 # Optional
 
 [![Tests](https://github.com/symfonyboot/optional/actions/workflows/tests.yml/badge.svg)](https://github.com/symfonyboot/optional/actions/workflows/tests.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/efa216c89149828022a7/maintainability)](https://codeclimate.com/github/symfonyboot/optional/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/efa216c89149828022a7/test_coverage)](https://codeclimate.com/github/symfonyboot/optional/test_coverage)
 
 Portability of Java's `java.util.Optional<T>` class to PHP, updated with Java 11 features. 
 
