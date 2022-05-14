@@ -48,7 +48,7 @@ The Optional class encapsulates a value and can perform various operations on it
 ### Example with Optional:
 
 ```php
-    /** @var SymfonyBoot\Optional $optional */
+    /** @var SilasYudi\Optional $optional */
     $optional = $this->repository->find($id);
     $entity = $optional->orElseThrow(new SomeException());
     ...
