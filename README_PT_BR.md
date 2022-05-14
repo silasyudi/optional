@@ -1,8 +1,8 @@
 # Optional
 
-[![Tests](https://github.com/symfonyboot/optional/actions/workflows/tests.yml/badge.svg)](https://github.com/symfonyboot/optional/actions/workflows/tests.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/efa216c89149828022a7/maintainability)](https://codeclimate.com/github/symfonyboot/optional/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/efa216c89149828022a7/test_coverage)](https://codeclimate.com/github/symfonyboot/optional/test_coverage)
+[![Tests](https://github.com/silasyudi/optional/actions/workflows/tests.yml/badge.svg)](https://github.com/silasyudi/optional/actions/workflows/tests.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/22aefd9a146abde68afd/maintainability)](https://codeclimate.com/github/silasyudi/optional/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/22aefd9a146abde68afd/test_coverage)](https://codeclimate.com/github/silasyudi/optional/test_coverage)
 
 Portabilidade da classe `java.util.Optional<T>` do Java para PHP, atualizado com recursos do Java 11.
 
@@ -20,7 +20,7 @@ Read the English :us: version [here](README.md).
 ## Instalação
 
 ```sh
-composer require symfonyboot/optional
+composer require silasyudi/optional
 ```
 
 ## Pré-requisitos
